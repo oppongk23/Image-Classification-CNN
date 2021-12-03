@@ -1,6 +1,6 @@
 In this project, we will attempt to solve an Image Classification problem using Convolutional Neural Networks. In a [previous post](https://oppongk23.github.io/Image-Classification-ANN/), we looked at this same task but with a Multi-layered perceptron instead. Like in the previous post, we will look at overfitting and how we can reduce it. There are so many really good architectures out there that would provide really great accuracies; the models in this project are way more simplified than those and the purpose of this project is to really look at overfitting and how we can reduce it.
 
-If you are more interested in the just the ccode, it is available over [here](https://github.com/oppongk23/Image-Classification-CNN/blob/main/CIFAR-10_CNN.ipynb).
+If you are more interested in the just the code, it is available over [here](https://github.com/oppongk23/Image-Classification-CNN/blob/main/CIFAR-10_CNN.ipynb).
 
 #### Convolution and CNNs
 Generally, in math, convolution represents an operation between two functions in which another function is produced. This third function, usually quantifies the way in which one function modifies the other function. CNNs leverage this very important ability to extract features from images from basic shapes to advanced features. These features are then sent as inputs to Multi-layer perceptrons to learn from, and to classify.
